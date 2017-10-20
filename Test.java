@@ -2,6 +2,7 @@ class Person
 {
   //定义一个实例变量
   public String name;
+//.......
   //定义一个类变量
   public static int eyeNum;
 }
